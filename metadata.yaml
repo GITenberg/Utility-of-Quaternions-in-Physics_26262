@@ -1,0 +1,32 @@
+_repo: Utility-of-Quaternions-in-Physics_26262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McAulay, Alexander
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '31887'
+    url: http://www.gutenberg.org/2009/agents/31887
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_MacAulay
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- Physics
+gutenberg_issued: '2008-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Mathematical physics'
+- !lcsh 'Quaternions'
+- !lcc 'QA'
+title: Utility of Quaternions in Physics
+url: http://www.gutenberg.org/ebooks/26262
